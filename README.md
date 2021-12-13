@@ -20,3 +20,5 @@
 * 'git branch newBranch' - create local branch
 'newBranch'
 * 'git checkout newBranch' - check out local branch 'newBranch'
+
+* 'git branch -M otherBranch' - Rename current brach to 'otherBranch'
